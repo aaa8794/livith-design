@@ -52,11 +52,204 @@
       }
     }
   },
+  "Typography": {
+    "Title": {
+      "value": {
+        "fontFamily": "Noto Sans KR",
+        "fontWeight": "Bold",
+        "lineHeight": "140%",
+        "letterSpacing": "-5%",
+        "fontSize": "26"
+      },
+      "type": "typography"
+    },
+    "Head1-sm": {
+      "value": {
+        "fontWeight": "Semibold",
+        "fontSize": "22pt",
+        "fontFamily": "Noto Sans KR",
+        "lineHeight": "140%",
+        "letterSpacing": "-5%"
+      },
+      "type": "typography"
+    },
+    "Head1-md": {
+      "value": {
+        "fontFamily": "Noto Sans KR",
+        "fontSize": "22",
+        "lineHeight": "140%",
+        "letterSpacing": "-5%",
+        "fontWeight": "Medium"
+      },
+      "type": "typography"
+    },
+    "Head1-re": {
+      "value": {
+        "fontFamily": "Noto Sans KR",
+        "fontWeight": "Regular",
+        "lineHeight": "140%",
+        "letterSpacing": "-5%",
+        "fontSize": "22"
+      },
+      "type": "typography"
+    },
+    "Body1-sm": {
+      "value": {
+        "fontFamily": "Noto Sans KR",
+        "fontWeight": "Semibold",
+        "fontSize": "18",
+        "lineHeight": "140%",
+        "letterSpacing": "-5%"
+      },
+      "type": "typography"
+    },
+    "Body2-sm": {
+      "value": {
+        "fontFamily": "Noto Sans KR",
+        "fontWeight": "Semibold",
+        "fontSize": "16",
+        "lineHeight": "140%",
+        "letterSpacing": "-5%"
+      },
+      "type": "typography"
+    },
+    "Body2-md": {
+      "value": {
+        "fontWeight": "Medium",
+        "fontSize": "15",
+        "fontFamily": "Noto Sans KR",
+        "lineHeight": "140%",
+        "letterSpacing": "-5%"
+      },
+      "type": "typography"
+    },
+    "Body2-re": {
+      "value": {
+        "fontFamily": "Noto Sans KR",
+        "fontSize": "16",
+        "fontWeight": "Regular",
+        "lineHeight": "140%",
+        "letterSpacing": "-5%"
+      },
+      "type": "typography"
+    },
+    "Body3-sm": {
+      "value": {
+        "fontFamily": "Noto Sans KR",
+        "fontWeight": "SemiBold",
+        "fontSize": "15",
+        "lineHeight": "140%",
+        "letterSpacing": "-5%"
+      },
+      "type": "typography"
+    },
+    "Body3-md": {
+      "value": {
+        "fontFamily": "Noto Sans KR",
+        "fontWeight": "Medium",
+        "fontSize": "15",
+        "letterSpacing": "-5%",
+        "lineHeight": "140%"
+      },
+      "type": "typography"
+    },
+    "Body3-re": {
+      "value": {
+        "fontFamily": "Noto Sans KR",
+        "fontWeight": "Regular",
+        "fontSize": "15",
+        "lineHeight": "140%",
+        "letterSpacing": "-5%"
+      },
+      "type": "typography"
+    },
+    "Body4-sm": {
+      "value": {
+        "fontFamily": "Noto Sans KR",
+        "fontWeight": "SemiBold",
+        "fontSize": "14",
+        "lineHeight": "140%",
+        "letterSpacing": "-5%"
+      },
+      "type": "typography"
+    },
+    "Body4-md": {
+      "value": {
+        "fontFamily": "Noto Sans KR",
+        "fontWeight": "Medium",
+        "fontSize": "14",
+        "lineHeight": "140%",
+        "letterSpacing": "-5%"
+      },
+      "type": "typography"
+    },
+    "Body4-re": {
+      "value": {
+        "fontFamily": "Noto Sans KR",
+        "letterSpacing": "-5%",
+        "lineHeight": "140%",
+        "fontSize": "14",
+        "fontWeight": "Regular"
+      },
+      "type": "typography"
+    },
+    "Caption1-bold": {
+      "value": {
+        "fontFamily": "Noto Sans KR",
+        "fontWeight": "Bold",
+        "fontSize": "12",
+        "lineHeight": "130%",
+        "letterSpacing": "-5%"
+      },
+      "type": "typography"
+    },
+    "Caption1-sm": {
+      "value": {
+        "fontWeight": "Semibold",
+        "fontFamily": "Noto Sans KR",
+        "fontSize": "12",
+        "lineHeight": "130%",
+        "letterSpacing": "-5%"
+      },
+      "type": "typography"
+    },
+    "Caption1-re": {
+      "value": {
+        "fontFamily": "Noto Sans KR",
+        "fontWeight": "Regular",
+        "fontSize": "12",
+        "lineHeight": "120%",
+        "letterSpacing": "-5%"
+      },
+      "type": "typography"
+    },
+    "Caption2-sm": {
+      "value": {
+        "fontFamily": "Noto Sans KR",
+        "fontWeight": "SemiBold",
+        "fontSize": "10",
+        "lineHeight": "120%",
+        "letterSpacing": "-5%"
+      },
+      "type": "typography"
+    },
+    "Caption2-re": {
+      "value": {
+        "fontFamily": "Noto Sans KR",
+        "fontWeight": "Regular",
+        "fontSize": "10",
+        "lineHeight": "120%",
+        "letterSpacing": "-5%"
+      },
+      "type": "typography"
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
       "global",
-      "Atomic"
+      "Atomic",
+      "Typography"
     ]
   }
 }
