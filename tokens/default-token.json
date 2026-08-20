@@ -289,6 +289,10 @@
     }
   },
   "Spacing": {
+    "2": {
+      "value": "2",
+      "type": "spacing"
+    },
     "4": {
       "value": "4",
       "type": "spacing",
